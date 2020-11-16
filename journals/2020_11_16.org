@@ -3,3 +3,4 @@
 ** This is the first step with my personal logseq notebook.
 ** I've started to work on [[grants]]
 ** I wonder if I should install this in the exp2exp repository?
+** Furthermore we could also set up a wiki for the Peeragogy Handbook folks in the same format easily enough
