@@ -1,3 +1,5 @@
 #+TITLE: Nov 16th, 2020
 
-** 
+** This is the first step with my personal logseq notebook.
+** I've started to work on [[grants]]
+** I wonder if I should install this in the exp2exp repository?
